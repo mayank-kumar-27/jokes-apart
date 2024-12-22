@@ -11,7 +11,7 @@
 
 
 ## Screenshots
-![Screenshot of the To-Do List Application](source-for-screenshot)
+![Screenshot of the To-Do List Application](./assets/Screenshot.png)
 
 ## Installation
 1. Clone this repository to your local machine:
